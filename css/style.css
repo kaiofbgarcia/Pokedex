@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@300;400;500;600;700;800&display=swap');
 
 *{
-    margin: 0;
+	margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Oxanium', cursive;
@@ -91,4 +91,4 @@ main{
 .button:active{
     box-shadow: inset -4px 4px 0 #222;
     font-size: 0.9rem;
-}
+} 
